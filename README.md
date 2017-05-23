@@ -13,7 +13,7 @@ Manually Collected Outputs in one file: http://cs.oswego.edu/~yxia/coursework/cs
 Graph Plotted using the data: http://cs.oswego.edu/~yxia/coursework/csc375/ </br>
 
 # Useful References/Tutorials 
-- http://openjdk.java.net/projects/code-tools/jmh/
-- http://tutorials.jenkov.com/java-performance/jmh.html
+- http://openjdk.java.net/projects/code-tools/jmh/  -- Setting up JHM
+- http://tutorials.jenkov.com/java-performance/jmh.html   -- How to write a benchmark test
 
 
